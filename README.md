@@ -101,7 +101,7 @@ to `artifacts/`.
 
 ## Results
 
-(Fill this in with your real numbers after a week of data.)
+Not Enough Data Yet
 
 | Model | MAE (min) |
 |---|---|
